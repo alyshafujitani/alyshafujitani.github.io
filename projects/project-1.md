@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/drone.png
-title: Drones
-permalink: projects/drones
+title: Drone Traffic Profiling and Protocol Reverse Engineering
+permalink: projects/dronetrafficprofilingandprotocolreverseenegineering
 # All dates must be YYYY-MM-DD format!
 date: 2019-01-14
 labels:
