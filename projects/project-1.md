@@ -5,7 +5,7 @@ image: images/drone.png
 title: Drones
 permalink: projects/drones
 # All dates must be YYYY-MM-DD format!
-date: 2019
+date: 2019-01-14
 labels:
   - Linux
   - Drones
