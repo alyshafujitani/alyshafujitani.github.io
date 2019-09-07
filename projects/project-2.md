@@ -14,7 +14,7 @@ labels:
 summary: Validation of the fingerprint procedures for the Scientific Investigation Section at the Honolulu Police Department.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/LiftingFingerprint.jpg">
+<img class="ui big right floated rounded image" src="../images/LiftingFingerprint.jpg">
 
 As an intern in the Scientific Investigation Section at the Honolulu Police Department, I was assigned the task of validating the fingerprint procedures used to lift fingerprints from crime scenes. There were four different type of fingerprint procedures that I helped to validate and they were black powder, magnetic powder, fluorescent powder, and adhesive. Each different procedure consisted of several steps to make sure that each different type of material could still be used to lift fingerprints off of several different substrates.
 
