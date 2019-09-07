@@ -15,7 +15,6 @@ summary: My team designed and constructed a device that could retrieve ping pong
 
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/boat.jpeg">
-  <img class="ui image" src="../images/BoatGroup.JPG">
   <img class="ui image" src="../images/BoatGroupAward.JPG">
 </div>
 
