@@ -46,10 +46,6 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -59,88 +55,102 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Kali Linux"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2017-08-21",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "2.95",
+      "courses": [ 
       ]
+    },
+    {
+      "institution": "Chaminade University of Honolulu, Honolulu, HI",
+      "area": "Forensic Science",
+      "studyType": "B.S.",
+      "startDate": "2013-08-19",
+      "endDate": "2017-05-15",
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Honolulu Authority Rapid Transportation",
+      "position": "Engineering Student Intern II",
+      "website": "https://www.honolulutransit.org/",
+      "startDate": "2018-09-06",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Learn important engineering skills related to transporation",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Researched, wrote, and delivered a Memorandum of Understanding between HART and other City departments",
+        "Learned about different fiber connections and cybersecurity problems related to Rail"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "University of Hawaii Insect Museum",
+      "position": "Entomology Museum Databaser",
+      "website": "https://www.ctahr.hawaii.edu/insectmuseum/",
+      "startDate": "2018-01-14",
+      "endDate": "2019-08-15",
+      "summary": "Spread and label moths, butterflies, and fruit flies",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Create expeditions about collections in the museum and post them onto digivol.com",
+        "Prepare microscope slides with fruit fly wings and legs for further observations", 
+         "Pin, label, and photograph fruit flies"
+      ]
+    },
+    {
+      "company": "Honolulu Police Department",
+      "position": "Scientific Investigation Section Intern",
+      "website": "http://www.honolulupd.org/department/index.php?page=sis",
+      "startDate": "2016-02-05",
+      "endDate": "2017-06-15",
+      "summary": "Validation of fingerprint methods for the Scientific Investigation Section",
+      "highlights": [
+        "Validated various fingerprint powders such as black powder, magnetic powder, and flourescent powder",
+        "Validated various solutions used to retrieve fingerprints from adhesive surfaces", 
+        "Applied different methods of lifting fingerprints with various substrates"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Caring Crocheters, Chaminade University of Honolulu",
+      "website": "https://chaminade.edu/service-learning/caring-crocheters/",
+      "position": "Student",
+      "startDate": "2016-01-21",
+      "endDate": "2016-05-11",
+      "summary": "Crocheted baby blankets for the New Parent Support Program (NPSP)",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Learned how to crochet",
+        "Helped families on base who did not have supplies for babies"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Forenisc Science Club, Chaminade Univsersity of Honolulu",
+      "website": "https://chaminade.presence.io/organization/forensic-science-club",
+      "position": "Student Member",
+      "startDate": "2016-08-15",
+      "endDate": "2017-05-11",
+      "summary": ".",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Participated in IAAS Girl Scout Community Service Day",
+        "Helped at the Science Fair held by the American Chemistry Society",
+        "Learned more techniques used in Crime Scene Investigation"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Second place",
+      "date": "2017",
+      "awarder": "Holmes Hall Freshmen Challenge",
+      "summary": "My team won second place in 2017.  See my portfolio site for more details."
     }
   ],
   "references": [
