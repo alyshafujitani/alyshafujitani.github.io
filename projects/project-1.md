@@ -13,7 +13,7 @@ labels:
 summary:  Land drones with artificial commands using network "fingerprint".
 ---
 
-<div class="ui medium rounded images">
+<div class="ui big rounded images">
   <img class="ui image" src="../images/IntelAero.jpg">
 </div>
 
