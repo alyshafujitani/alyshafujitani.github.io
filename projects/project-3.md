@@ -1,61 +1,24 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/boat.jpeg
+title: Holmes Hall Freshmen Challenge
+permalink: projects/holmeshallfreshmenchallenge
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-12-07
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Engineering design process
+  - Teamwork
+  - Technical presentation
+summary: My team designed and constructed a device that could retrieve ping pong balls in a pool and won 2nd place in the 2017 Holmes Hall Freshmen Challenge.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/BoatGroup.JPG">
+  <img class="ui image" src="../images/BoatGroupAward.JPG">
+</div>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
-To give you a flavor of the game, here is an excerpt from one run:
+The College of Engineering at the University of Hawaii at Manoa host the "Holmes Hall Freshmen Challenge" every fall for incoming engineering freshmen. This challenge is a competition between teams of incoming freshmen that help them learn and experience the engineering design process under the mentorship of an upperclassmen engineering student. The objective of the challenge is for the team to design, construct, and test a device or system of devices that can retrieve ping pong balls from one end of the pool to the other end.  Each team is judged based on a certain criteria and on their presentation.
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+My team met every week for the fall 2017 semester and designed a device that we thought would collect enough ping pong balls in the fastest amount of time. We also worked on our PowerPoint presentation to present to the judges and other teams on the day of the competition. Overall my team placed second place out of 8 other teams. 
