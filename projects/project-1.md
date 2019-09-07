@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/drone.png
+image: images/drone.jpg
 title: Drone Traffic Profiling & Protocol Reverse Engineering
 permalink: projects/dronetrafficprofilingandprotocolreverseengineering
 # All dates must be YYYY-MM-DD format!
