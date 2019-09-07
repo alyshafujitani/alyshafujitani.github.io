@@ -13,8 +13,9 @@ labels:
 summary:  Land drones with artificial commands using network "fingerprint".
 ---
 
-<div class="ui big rounded images">
-  <img class="ui image" src="../images/IntelAero.jpg">
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/DroneGroup.jpg">
+  <img class="ui image" src="../images/Intel_AeroReadytoFlyDrone.jpg">
 </div>
 
 Drones provide many new opportunities to develop new applications such as Unmanned Aerial Systems (UASs) that have become versatile and effective tools for malicious users. UASs has also made it possible for remote surveillance and kinetic strikes. Due to these attacks and malicious users there is a growing need for wireless network security solutions. This project focuses on classifying drones by their unique frame breakdown of wireless protocols, determines the type of drones based on analysis of Wi-Fi packet samples, and the land a drone with artificial commands using the network "fingerprint".
