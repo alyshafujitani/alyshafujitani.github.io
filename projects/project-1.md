@@ -22,4 +22,4 @@ Drones provide many new opportunities to develop new applications such as Unmann
 
 My team and I planned out three different steps to get to our end goal. The first step was to collect UAS Wi-Fi traffic packets which would help us examine the communication between a drone and its controller. The second step was to analyze the packets and find patterns. In this step we needed to decrypt data from the packets then, analyze the packet data trends for patterns and finally conduct reverse engineering communication protocols. The last step was to inject artificial packet which means the packets were created by using previously determined protocol formats.
 
-You can learn more at the [UH Cyber Security and Application Research Group](https://sites.google.com/a/hawaii.edu/uh-uas-projects/home?pli=1).
+You can learn more at the [UH Cyber Security and Application Research Group](https://sites.google.com/a/hawaii.edu/uh-uas-projects/research/2020-x96-projects).
