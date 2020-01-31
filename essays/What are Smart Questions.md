@@ -21,5 +21,7 @@ An example of a smart question is shown below. This question was asked once the 
   <img class="ui image" src="../images/SmartQuestion_StackOverflow.png">
 </div>
 
+The responses to this question are not shown but one of the responses were very informative and help the user understand their program much better.  The answer given gave a definition of the type of behavior that was occurring, examples to back up their main point, and many different reasons why this behavior occurs. The answer was very detailed and shows the reader how knowledgeable the “hacker” is behind the screen. This example is how a smart question should be asked and how it should be answered. 
+
 ## Insights Gained
 
