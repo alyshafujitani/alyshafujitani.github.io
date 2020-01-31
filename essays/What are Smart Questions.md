@@ -25,3 +25,4 @@ The responses to this question are not shown but one of the responses were very 
 
 ## Insights Gained
 
+After reading through the paper by Eric Steven Raymond and hunting down a smart question on StackOverflow, it opened my eyes to how many “dumb” questions I have asked over the years. I personally need to think of ways to start asking smart questions and not become a “loser”.  I did not know before reading Eric Steven Raymond’s paper, how a smart question really worked and now I know for the future on how to not piss off hackers. 
