@@ -15,6 +15,8 @@ Smart questions are essential for smart software engineers because it cuts down 
 
 ## Example of a Smart Question
 
+An example of a smart question is shown below. This question was asked once the user did their own research and still could not find the answer. As seen in the image, they wrote their own code, took out certain lines of code and compared the amount of time it took each round. This user was confused in why the program was doing this particular act. After writing it in C++, the user wrote the same code in Java and realized that the code ran the same way no matter what language it was in. The user had initial thoughts but could not find the answer on the internet, which is why they turned to StackOverflow as their last option. This type of thought process is the way a smart question should be asked and what smart software engineers look for. 
+  
 <div class="ui medium rounded images">
   <img class="ui image" src="../images/SmartQuestion_StackOverflow.png">
 </div>
