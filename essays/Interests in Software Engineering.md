@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/softwareEngineering.jpg">
 </div>
 
