@@ -8,4 +8,8 @@ labels:
   - JavaScript
 ---
 
-#Why are coding standards important? 
+##Why are coding standards important? 
+
+##Impressions of ESLint with IntelliJ
+
+##Overall Perspective
