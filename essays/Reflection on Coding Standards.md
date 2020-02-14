@@ -1,0 +1,11 @@
+---
+layout: essay
+type: essay
+title: Are Coding Standards Neccessary? 
+# All dates must be YYYY-MM-DD format!
+date: 2020-02-13
+labels:
+  - JavaScript
+---
+
+#Why are coding standards important? 
