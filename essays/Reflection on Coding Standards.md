@@ -5,7 +5,8 @@ title: Are Coding Standards Neccessary?
 # All dates must be YYYY-MM-DD format!
 date: 2020-02-13
 labels:
-  - JavaScript
+  - ESLint
+  - Standards
 ---
 
 ## Why are coding standards important? 
