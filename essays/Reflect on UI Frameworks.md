@@ -10,6 +10,7 @@ labels:
   - CSS
 ---
 
+### Semantic UI 
 <div class="ui huge rounded images">
   <img class="ui image" src="https://semantic-ui.com/images/devices.png">
 </div>
