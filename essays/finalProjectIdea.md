@@ -28,26 +28,26 @@ Study environment preferences, which are already built into the app, and are mod
 
 ### Mockup Page Ideas 
 Some possible mockup pages include: 
-Landing page 
-User home page 
-Admin home page 
-User profile page 
-Vendor page 
-Add vendor page 
-Today’s top picks page 
+- Landing page 
+- User home page 
+- Admin home page 
+- User profile page 
+- Vendor page 
+- Add vendor page 
+- Today’s top picks page 
 
 ### Use Case Ideas 
 Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system. 
-New user goes to the landing page, logs in, gets home page, sets up profile. 
-Admin goes to the landing page, logs in, gets home page, edits site. 
-User goes to the landing page, logs in, looks for study spots
-Users are notified of new coffee/boba shops in the area that are their ideal place to study
+- New user goes to the landing page, logs in, gets home page, sets up profile. 
+- Admin goes to the landing page, logs in, gets home page, edits site. 
+- User goes to the landing page, logs in, looks for study spots
+- Users are notified of new coffee/boba shops in the area that are their ideal place to study
 
 ### Beyond the Basics 
 After implementing the basic functionality, here are ideas for more advanced features: 
-Notify students via email, twitter, SMS when new coffee/boba shops open up 
-Automated updating of coffee/boba shop hours or information pertaining to their store.
-Allow students to rate study spots
-Integrated map functionality; note that some shops may change their location over the course of time. 
-Provide feed of tweets from shops (some shops may use Twitter to advertise daily specials or deals). 
+- Notify students via email, twitter, SMS when new coffee/boba shops open up 
+- Automated updating of coffee/boba shop hours or information pertaining to their store.
+- Allow students to rate study spots
+- Integrated map functionality; note that some shops may change their location over the course of time. 
+- Provide feed of tweets from shops (some shops may use Twitter to advertise daily specials or deals). 
 
