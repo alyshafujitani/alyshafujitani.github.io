@@ -18,5 +18,5 @@ In our group of four people, we split up the work evenly by using issue driven p
 
 The tasks I was assigned was to create the search page and create the favorites page.  The search page became harder than we thought and I had to pass on the favorites page to a different group member. In the search page it showed all the locations created for cram connect and users could search for whatever location they wanted to know about.  Another task I was assigned to was updating the project page with screenshots of our milestones, overview of our project, and how to run our application. After each milestone was completed I would upload screenshots of our progress and an explanation of what we accomplished. Also, on our project page was a user guide to let users know how to use our site. 
 
-You can learn more at the Cram Connect Project Page.
+You can learn more at the [Cram Connect Project Page](https://cram-connect.github.io/)..
 
