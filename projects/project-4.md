@@ -13,7 +13,7 @@ summary: Creating a website for students to find the perfect place to study on c
 ---
 
 <div class="ui medium rounded images">
-  <img class="ui image" src="../images/landing.JPG">
+  <img class="ui image" src="../images/landing.jpg">
   <img class="ui image" src="../images/search.jpg">
 </div>
 
