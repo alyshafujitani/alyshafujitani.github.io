@@ -12,6 +12,11 @@ labels:
 summary: Creating a website for students to find the perfect place to study on campus.
 ---
 
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/landing.JPG">
+  <img class="ui image" src="../images/search.jpg">
+</div>
+
 In ICS 314, the final project for the class was to create a web application in a group of three other people. Our project idea was called Cram Connect. Cram Connect is a website that students at the University of Hawaii at Manoa could use to find a place to study on campus and rate their favorite study spots. Students can create user profiles that list their name, major, favorite spot qualities, and favorite study spots. Each study spot or location listed their hours, a short description, a google map location, and their rating. Our goal for this web application was to provide a intuitive user interface that can provide an efficient system to allow students to discover and rate study spots in and around the University of Hawaii at Manoa campus. 
 
 In our group of four people, we split up the work evenly by using issue driven project management. Issue driven project management is when tasks or issues are assigned to each group member and placed into a milestone with a due date. For issue driven project management, tasks are split up evenly between group members and are spread out over time to not rush group members. Once a milestone is completed, then more issues are created and assigned to each group member.  Through this type of project management, the web application can be tested as the project goes on and group members do not feel rushed.  
