@@ -6,7 +6,7 @@
     "email": "alysha2@hawaii.edu",
     "phone": " ",
     "website": "https://alyshafujitani.github.io",
-    "summary": "I am studying for a B.S. in Computer Engineering in the College of Engineering  at the University of Hawaii at Manoa. I expect to graduate in Spring, 2020. After graduation, I hope to have a career in cybersecurity.",
+    "summary": "B.S. in Computer Engineering from the College of Engineering  at the University of Hawaii at Manoa. B.S. in Forensic Science from Chaminade Univiersity of Honolulu",
     "location": {
       "address": "",
       "postalCode": "96816",
@@ -70,8 +70,8 @@
       "area": "Computer Engineering (expected Spring, 2020)",
       "studyType": "B.S.",
       "startDate": "2017-08-21",
-      "endDate": "Present",
-      "gpa": "2.95",
+      "endDate": "2020-05",
+      "gpa": "2.98",
       "courses": [
       ]
     },
@@ -86,10 +86,24 @@
   "work": [
     {
       "company": "Honolulu Authority Rapid Transportation",
+      "position": "System Analyst",
+      "website": "https://www.honolulutransit.org/",
+      "startDate": "2020-07-01",
+      "endDate": "Present",
+      "summary": "Involved with the mobilization of the raily system",
+      "highlights": [
+        "Interface with stakeholders",
+        "Oversee progress made towards the Maintnenace Management Information System",
+        "Assisted Fare Systems manager in the testing and commissioning of fare system",
+        "Review cybersecurity related submittals"
+      ]
+    },
+    {
+      "company": "Honolulu Authority Rapid Transportation",
       "position": "Engineering Student Intern II",
       "website": "https://www.honolulutransit.org/",
       "startDate": "2018-09-06",
-      "endDate": "Present",
+      "endDate": "2020-06-30",
       "summary": "Learn important engineering skills related to transporation",
       "highlights": [
         "Researched, wrote, and delivered a Memorandum of Understanding between HART and other City departments",
